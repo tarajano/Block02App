@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">Block02App</string>
     <string name="pick_an_animal">Pick an animal</string>
+    <string name="dog">dog</string>
+    <string name="cat">cat</string>
+    <string name="horse">horse</string>
+    <string name="pig">pig</string>
+    <string-array name="animalsArray">
+        <item>@string/dog</item>
+        <item>@string/cat</item>
+        <item>@string/horse</item>
+        <item>@string/pig</item>
+    </string-array>
+
+
 </resources>
