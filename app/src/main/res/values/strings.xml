@@ -5,12 +5,16 @@
     <string name="cat">cat</string>
     <string name="horse">horse</string>
     <string name="pig">pig</string>
+    <string name="bird">bird</string>
+    <string name="listItemPopUpMessage">"You have selected "</string>
     <string-array name="animalsArray">
         <item>@string/dog</item>
         <item>@string/cat</item>
         <item>@string/horse</item>
         <item>@string/pig</item>
+        <item>@string/bird</item>
     </string-array>
+
 
 
 </resources>

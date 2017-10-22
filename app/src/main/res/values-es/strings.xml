@@ -6,4 +6,5 @@
     <string name="cat">gato</string>
     <string name="horse">caballo</string>
     <string name="pig">cerdo</string>
+    <string name="listItemPopUpMessage" >"Ud. ha elegido "</string>
 </resources>
